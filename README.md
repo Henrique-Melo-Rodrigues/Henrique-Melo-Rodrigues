@@ -4,7 +4,10 @@
 
 <p align="left">- 📚 Atualmente estou estudando lógica de programação aplicado ao Python para facilitar o primeiro contato com linguagens de programação.<br><br>- ⏳ Desejo entrar em um curso da área de tecnologia em 2026, como CC (Ciência da Computação) ou ADS (Análise e Desenvolvimento de Sistemas)<br><br>- 📩 Contate-me no email: contatohenriquemelo480@gmail.com</p>
 
+
+
 ###
+<p align="left"> ✍️ Abaixo há imagens de tecnologias que eu estudei e possuo um domínio médio e que estou me aprofundando para me consolidar e ser um desenvolvedor backend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
