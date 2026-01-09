@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu me chamo Henrique, seja bem vindo ao meu perfil</h1>
+### Olá! Eu me chamo Henrique, seja bem vindo ao meu perfil</h1>
 
 ###
 
