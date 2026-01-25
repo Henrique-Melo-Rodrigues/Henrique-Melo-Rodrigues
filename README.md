@@ -7,7 +7,7 @@
 
 
 ###
-<p align="left"> ✍️ Abaixo há imagens de tecnologias que eu estudei e possuo um domínio médio e que estou me aprofundando para me consolidar e ser um desenvolvedor backend
+<p align="left"> ✍️ Abaixo há imagens de tecnologias que eu almejo estudar ou possuo um domínio básico e que estou me aprofundando para me tornar um desenvolvedor backend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
