@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 📚 Atualmente estou estudando lógica de programação aplicado ao Python para facilitar o primeiro contato com linguagens de programação.<br><br>- ⏳ Desejo entrar em um curso da área de tecnologia em 2026, como CC (Ciência da Computação) ou ADS (Análise e Desenvolvimento de Sistemas)<br><br>- 📩 Contate-me no email: contatohenriquemelo480@gmail.com</p>
+<p align="left">- 📚 Graduando em Ciência da Computação, Com foco em me desenvolver para a area de backend developer.<br><br>- 📩 Contate-me no email: contatohenriquemelo480@gmail.com</p>
 
 
 
